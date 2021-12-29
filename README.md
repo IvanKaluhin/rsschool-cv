@@ -1,2 +1,1 @@
-# rsschool-cv
-Education
+https://IvanKaluhin.github.io/rsschool-cv/
